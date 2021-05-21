@@ -2,4 +2,5 @@ I made a file compressor that runs from the command line as a short hobby projec
 
 Usage:
 `algius c a.txt b.txt`
+
 `algius d a.txt b.txt`
